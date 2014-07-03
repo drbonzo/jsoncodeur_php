@@ -3,7 +3,7 @@
 	"description": "JSON encoder, decoder. Works with any object structure (not just stdClass). Throws exceptions on JSON decoding errors.",
 	"license": "MIT",
 	"type": "library",
-	"version": "0.1.4",
+	"version": "0.2.0",
 
 	"require-dev": {
 		"phpunit/phpunit": "3.7.*"
@@ -19,7 +19,7 @@
 		}
 	},
 	"require": {
-		"drbonzo/metassione": "~0.1"
+		"drbonzo/metassione": "~0.2"
 	},
 	"repositories": [
 		{
